@@ -1,0 +1,61 @@
+
+body {
+    background-color: #04D4F0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-image: url(https://www.maxpixel.net/static/photo/1x/Map-Sabre-Discovery-Coins-Sword-Pirate-Background-3721111.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: aliceblue;
+    
+}
+
+h2 {
+    font-size: 35px;
+    color: aliceblue;
+}
+
+li {
+    font-size: 25px;
+    color: aliceblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+  }
+
+button {
+   padding: 20px;
+}
+
+table, td {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 1px solid;
+    border-color:  rgb(245, 245, 245);
+    border-radius: 10px;
+}
+
+td:hover {
+    background-color: #059DC0;}
+
+footer {
+    font-size: 35px;
+    padding: 20px;
+    color: aliceblue;
+}
